@@ -1,0 +1,125 @@
+body {
+  font-family: Helvetica;
+  background-color: rgb(244, 248, 249);
+  font-size: 27px;
+}
+
+
+
+.box-blue {
+
+  margin:27px 20px ;
+  width:1000px;
+  overflow:hidden;
+  padding:20px 0px 7px 0px;
+  border:2px solid rgb(225, 232, 237);
+  border-radius: 7px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255)
+}
+
+.profile-picture{
+  float:left;
+  position:relative;
+}
+
+.walk-picture{
+  float:left;
+  position:absolute;
+  padding:0px 0px 0px 93px;
+ }
+
+.bold-name{
+  font-weight:bold;
+  font-size:32px;
+  text-align:left;
+  padding: 26px 0px 5px 0px;
+  margin:0px 0px ;
+} 
+
+.validated-picture{
+  position: absolute;
+  padding: 0px 0px 0px 180px
+}
+
+
+
+.regular-name{
+  color:rgb(104, 109, 129);
+  padding: 0px 0px 30px 130px;
+  position:absolute;
+}
+
+.concent{
+padding: 70px 0px 0px 40px;
+text-align:left; 
+font-size: 32px;
+}
+
+.date{
+  color:rgb(101, 116, 127);
+   line-height:0; 
+  padding:0px 0px 0px 40px;
+
+}
+
+.text{
+  margin:0 -155px 0 0;
+  font-weight:bold;
+  color:rgb(85, 172, 238);
+  float:right;
+  position:relative;
+  top: -182px;
+}
+
+.logo{
+  margin:0 155px 0 0;
+  position:absolute;
+  top: 70px;
+  left: 797px;
+}
+
+.button {
+  margin:0 40px 0 0;
+  width:100px;
+  height:10px;
+  padding:0px 0px 50px 80px;
+  border:2px solid rgb(85, 172, 238);
+  border-radius: 7px;
+  border-radius: 10px;
+  float:right;
+  position: relative;
+  top: -202px
+}
+
+.reply{
+  margin-top: 40px;
+}
+
+.retweet{
+  position:relative;
+  margin-left: 70px;
+  margin-top: -59px;
+}
+
+.number{
+  color:rgb(105, 120, 130);
+  position:relative;
+  margin-left: 160px;
+  margin-top: -59px;
+}
+
+.favorite{
+  position:relative;
+  margin-left: 235px;
+  margin-top: -56px;
+}
+
+.number-likes{
+  color:rgb(105, 120, 130);
+  position:relative;
+  margin-left: 313px;
+  margin-top: -59px;
+}
+
+
